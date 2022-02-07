@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ideal-invention/static/css/main.a16aa1d7.chunk.css",
+    "main.js": "/ideal-invention/static/js/main.73d70833.chunk.js",
+    "main.js.map": "/ideal-invention/static/js/main.73d70833.chunk.js.map",
+    "runtime-main.js": "/ideal-invention/static/js/runtime-main.80a7ab3b.js",
+    "runtime-main.js.map": "/ideal-invention/static/js/runtime-main.80a7ab3b.js.map",
+    "static/css/2.27e8cbd0.chunk.css": "/ideal-invention/static/css/2.27e8cbd0.chunk.css",
+    "static/js/2.84fac38b.chunk.js": "/ideal-invention/static/js/2.84fac38b.chunk.js",
+    "static/js/2.84fac38b.chunk.js.map": "/ideal-invention/static/js/2.84fac38b.chunk.js.map",
+    "index.html": "/ideal-invention/index.html",
+    "static/css/2.27e8cbd0.chunk.css.map": "/ideal-invention/static/css/2.27e8cbd0.chunk.css.map",
+    "static/css/main.a16aa1d7.chunk.css.map": "/ideal-invention/static/css/main.a16aa1d7.chunk.css.map",
+    "static/js/2.84fac38b.chunk.js.LICENSE.txt": "/ideal-invention/static/js/2.84fac38b.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/ideal-invention/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80a7ab3b.js",
+    "static/css/2.27e8cbd0.chunk.css",
+    "static/js/2.84fac38b.chunk.js",
+    "static/css/main.a16aa1d7.chunk.css",
+    "static/js/main.73d70833.chunk.js"
+  ]
+}
